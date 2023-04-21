@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FlexMAFD-rescue)(type Legacy)(uri ${KIPRJMOD}/FlexMAFD-rescue.lib)(options "")(descr ""))
+)
